@@ -5,7 +5,7 @@ RPG
 This repository contains all the source code of RPG.
 The project is called "Blessed" and it was made by a team of four people.
 <div align="center" >
-  <img width="" height="" src="resources/image.png" />
+  <img width="" height="" src="screenshot" />
 </div>
 
 Installation
