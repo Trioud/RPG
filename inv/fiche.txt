@@ -1,0 +1,16 @@
+Antoine
+archer
+7
+baton:twe:1,stat:10
+cuir:tar:1,stats:10
+Slime1
+Slime2
+Slime3
+1|5|6
+M:500
+f:1
+i:50
+a:50
+v:100
+c:10
+fin

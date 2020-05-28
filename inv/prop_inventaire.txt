@@ -1,0 +1,6 @@
+Inventaire: 1080*720
+Equipement: 720*480
+
+Slot inventaire: 133*119
+Slot slime: 88*134
+Slot équip: 110*304
